@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Alejandro 👋
 
-<!--
-**AlejandroP11/AlejandroP11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity game developer in training, building my way into the industry.
+Currently deep into a 3D roguelike inspired by The Binding of Isaac.
 
-Here are some ideas to get you started:
+## 🎮 What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Status |
+|---|---|---|
+| [Roguelike](https://github.com/AlejandroP11/roguelike) | 3D roguelike dungeon crawler — boss FSM, ScriptableObjects, damage system | 🔨 In progress |
+
+## 🛠️ Tech Stack
+
+- **Engine:** Unity (URP)
+- **Language:** C#
+- **Tools:** Git, Unity Input System, ScriptableObjects
+
+## 📍 Currently
+
+- Building the roguelike prototype
+- Learning in public — follow the journey on [Twitter/X](https://twitter.com/Apereiro_dev)
+- Looking for junior Unity developer opportunities in Spain
+
+## 📬 Let's Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-%40Apereiro__dev-1DA1F2?logo=twitter)](https://twitter.com/Apereiro_dev)
+
+## 🎓 Background
+DAM graduate with additional experience in Java, Python and Kotlin.
